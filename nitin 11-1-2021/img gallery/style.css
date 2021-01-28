@@ -1,0 +1,29 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+.main{
+ padding: 50px;
+margin-bottom: 20px;
+align-items: center;
+}
+img{
+	width: 250px;
+	height: 200px;
+	transition: width 2s;
+}
+img:hover{
+	width: 270px;
+	height: 200px;
+}
+.mainn{
+ padding: 50px;
+margin-bottom: 20px;
+align-items: center;
+}
+.heading{
+	font-size: 25px;
+	padding-top: 20px;
+}

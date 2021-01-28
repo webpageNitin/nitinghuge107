@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.toping{
+    /*background-image: url("l.jpg");*/
+    background-repeat: no-repeat;
+    background-size: center;
+	padding-top: 20px;
+}
+.leftt-img img{
+   width: 150px;
+   border-radius: 50px;
+}
+.leftt-logo img{
+	width: 100px;
+	 border-radius: 50px;
+}
+.rightt-img img{
+   width: 150px;
+    border-radius: 50px;
+}
+.rightt-logo img{
+   width: 60px;
+   border-radius: 50px;
+}
+.title-winners{
+	padding-left: 20px;
+}
+.title-winners2{
+	
+}

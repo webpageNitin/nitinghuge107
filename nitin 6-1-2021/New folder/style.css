@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+.p p{
+	text-transform: capitalize;
+}
+.form-group{
+	width: 100%;
+}
+.head{
+	padding-top: 20px;
+	border-bottom: 1px solid lightgray;
+}
+.Sport{
+	border-bottom: 1px solid lightgray;
+}
+.form-group textarea{
+	width: 100%;
+}

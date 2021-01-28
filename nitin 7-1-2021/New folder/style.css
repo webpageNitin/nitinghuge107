@@ -1,0 +1,26 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+.main{
+ padding: 50px;
+margin-bottom: 20px;
+align-items: center;
+}
+img{
+	width: 250px;
+	height: 200px;
+}
+img:hover{
+	width: 220px;
+	height: 180px;
+	animation: 2s;
+	
+}
+.mainn{
+ padding: 50px;
+margin-bottom: 20px;
+align-items: center;
+}

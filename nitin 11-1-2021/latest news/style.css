@@ -1,0 +1,15 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+.img-box-wrap{
+	width: 360px;
+	padding-top: 20px;
+
+}
+.img-box-wrap:hover{
+	opacity: 0.5;
+	width: 340px;
+}

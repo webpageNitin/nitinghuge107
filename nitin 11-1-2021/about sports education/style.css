@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.left-sec{
+	padding-top: 50px;
+}
+.p{
+	text-align: center;
+	text-transform: capitalize;
+	line-height: 2.3rem;
+}
+.banner{
+	width: 500px;
+	border-radius: 10px;
+}
+.centered{
+	font-size: 30px;
+	text-transform: capitalize;
+
+}
+.title-2{
+	font-size: 18px;
+	line-height: 45px;
+	text-transform: capitalize;
+
+}
+.title p{
+   
+	text-transform: capitalize;
+	
+}

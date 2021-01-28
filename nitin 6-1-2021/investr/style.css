@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+.card{
+	align-items: center;
+}
+h4{
+	align-items: center;
+	text-align: center;
+}
+p{
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: capitalize;
+}

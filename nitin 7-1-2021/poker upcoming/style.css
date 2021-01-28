@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+.top{
+	width: 100%;
+	height: 90vh;
+	align-items: center;
+	text-align: center;
+	background-image:url("photo-1551368998-d349c755c74c.jpg");
+}
+.left 
+{
+   padding-top: 100px;
+
+}
+.left h1{
+	color: white;
+
+}
+.center 
+{
+   padding-top: 100px;
+
+}
+.center h1{
+	color: white;
+	
+}
+.right 
+{
+   padding-top: 100px;
+
+}
+.right h1{
+	color: white;
+	
+}

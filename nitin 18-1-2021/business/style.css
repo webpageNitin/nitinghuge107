@@ -1,0 +1,161 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+{
+	scroll-behavior: smooth;
+}
+#paddingg{
+	margin-left:20px;
+	margin-right: 20px;
+}
+.color{
+	color: #03c6fc;
+}
+.carousel-caption h1{
+	padding-bottom: 5px;
+	font-size: 45px;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+.carousel-caption p{
+	padding-bottom: 120px;
+}
+.about-one{
+	text-align: center;
+	padding-top: 20px;
+
+}
+.about-one p{
+	color: gray;
+}
+.about{
+	padding-top: 20px;
+	align-items: center;
+	text-align: center;
+
+}
+.about i{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-size: 55px;
+	color: lightgray;
+}
+.img-boxing{
+	background-color:#f2f2f2;
+}
+.boxing{
+	padding: 10px;
+	margin: 20px;
+	border:1px solid lightgray;
+
+}
+.boxing:hover{
+	opacity: 0.6;
+	padding: 5px;
+	cursor: pointer;
+	box-shadow: 10px 5px 10px lightgray;
+
+}
+.heading-gallery{
+	font-size: 30px;
+	text-align: center;
+	text-transform: capitalize;
+	padding-top: 20px;
+	font-weight: bolder;
+
+}
+.boxing p{
+	font-size: 18px;
+	color: gray;
+	text-transform: capitalize;
+}
+.gray-line{
+	padding: 50px;
+	align-items:center;
+	text-align: center;
+	border-radius: 10px;
+}
+.gray-line i{
+    color:  #b6b5b5;
+    font-size: 70px;
+    text-align: center;
+}
+
+.last{
+	background-color: #2e3030;
+	padding: 30px;
+	color: white;
+}
+.last a{
+	color: white;
+	cursor: pointer;
+	text-transform: capitalize;
+	text-decoration: none;
+
+}
+.last a:hover{
+ color: gray
+}
+.last i{
+	color:#2bdff0;
+
+}
+
+.footer{
+	background-color: #2e3030;
+	align-items: center;
+	text-decoration:none;
+	color: white;
+	align-items: center;
+}
+.footer h4{
+	text-align: center;
+	font-size: 16px;
+	align-items: center;
+}
+  @media (max-width: 650px) {
+   form.searchform  {
+      display: none;
+    }
+}
+/*.triangle {
+  position: relative;
+  background:#afb2b3;
+  height: 30vh;
+}
+
+.triangle::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 100px 100px 0 100px;
+  border-color: #afb2b3 transparent transparent transparent;
+  left: 50%;
+  transform: translateX(-50%) translateY(-120%);
+}
+.triangle {
+  position: relative;
+  background: #c6cacc;
+  height: 50vh;
+}
+
+.triangle::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 100px 100px 100px;
+  border-color: transparent transparent #fff transparent;
+  left: 50%;
+ 
+  transform: translateX(-50%) translateY(-250%);
+}*/

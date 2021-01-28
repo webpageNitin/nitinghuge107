@@ -1,0 +1,89 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.heading h1{
+	padding-top: 20px;
+	text-transform: capitalize;
+	font-weight: bold;
+
+}
+.body p{
+	color: gray;
+	line-height: 30px;
+	text-transform: capitalize;
+	font-weight: bold;
+	padding-top: 20px;
+}
+.body h5{
+	font-size: 10px;
+	color: gray;
+	font-weight: bold;
+	font-style: italic;
+}
+.image img{
+	width: 100%;
+}
+.body button{
+	width: 30%;
+}
+.group{
+	margin: 20px;
+	padding: 20px;
+	width: 100%;
+	height: 100vh;
+	background-image: url("poker-3825827_960_720.jpg");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+}
+.head-left{
+     padding-top: 150px;
+     padding-left: 50px;
+
+}
+.head-left img{
+ 
+	width: 200px;
+	height: 150px;
+	border-radius:50px;
+
+}
+.body-left h1{
+   color: white;
+   text-transform: uppercase;
+   font-weight: bold;
+}
+.title-left p{
+	color: white;
+}
+.vas{
+	padding-top:200px;
+	align-items: center;
+	text-align: center;
+}
+.vas h1{
+	color:white;
+	font-weight: bolder;
+	font-size: 50px;
+}
+.head-right{
+	padding-top: 150px;
+	}
+.head-right img{
+	width: 200px;
+	height: 150px;
+	border-radius: 50px;
+}
+.body-right h1{
+   color: white;
+   text-transform: uppercase;
+   font-weight: bold;
+}
+.title-right p{
+	color: white;
+}
+.text{
+	padding-top: 15px;
+}

@@ -1,0 +1,30 @@
+*
+{	
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+.group-heading h1{
+	padding-bottom:20px;
+}
+.group{
+	padding-top: 40px;
+	background-color: lightgray;
+	
+}
+.group img{
+	border-radius: 20px;
+}
+.group-p{
+	background-color: gray;
+	align-items: center;
+	padding: 20px;
+	margin: 10px;
+}
+.group-p p{
+
+	color: white;
+	font-weight: bold;
+	text-transform: capitalize;
+}

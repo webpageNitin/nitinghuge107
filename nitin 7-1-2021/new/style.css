@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+
+.main-top{
+	padding-top: 50px;
+}
+.media-group{
+	background-color: #eee;
+	margin: 10px;
+	padding: 30px;
+	border-radius:10px;
+}
+.media-left i{
+	color:#a44fe4;
+	font-size:30px;
+}
+.media-body p{
+ text-transform: capitalize;
+ font-size: 1.4rem;
+ line-height: 25px;
+}
